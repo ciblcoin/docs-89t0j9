@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-wl4myt.blueshop.co.nz/sitemap.xml
